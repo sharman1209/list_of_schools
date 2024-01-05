@@ -1,2 +1,2 @@
 [build]
-  publish = "path/to/list_of_schools"
+  publish = "path/to/list_of_schools.html"
